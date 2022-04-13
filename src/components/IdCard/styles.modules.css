@@ -1,0 +1,16 @@
+.idcard{
+    width: 500px;
+    height: 150px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+}
+
+.imgprofile{
+    margin-left: 10px;
+}
+
+.infoprofile{
+    text-align: left;
+    margin-left: 10px;
+}

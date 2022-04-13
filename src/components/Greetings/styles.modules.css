@@ -1,0 +1,11 @@
+.greetings{
+    font-size: 30px;
+    border: 2px solid black;
+    height: 50px;
+    width: 490px;
+    padding-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
