@@ -1,0 +1,15 @@
+.facebookprofile{
+    display: flex;
+    justify-content: start;
+    margin: 20px auto;
+    border:1px solid black;
+}
+
+.facebookimg{
+    width: 100px;
+}
+
+.facebookinfo{
+    text-align: left;
+    margin-left: 15px;
+}
