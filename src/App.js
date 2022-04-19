@@ -13,6 +13,7 @@ import { Carousel } from './components/Carousel';
 import { NumbersTable } from './components/NumbersTable';
 import { FaceBook } from './components/FaceBook';
 import React from 'react';
+import { ColorPicker } from './components/ColorPicker';
 
 
 
@@ -137,6 +138,7 @@ function App() {
 
       <FaceBook />
       
+      <ColorPicker/>
     </div>
   )
 }

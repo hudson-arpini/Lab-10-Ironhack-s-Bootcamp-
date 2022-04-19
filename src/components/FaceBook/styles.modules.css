@@ -13,3 +13,13 @@
     text-align: left;
     margin-left: 15px;
 }
+
+.countries{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.countries li{
+    margin:5px
+}
